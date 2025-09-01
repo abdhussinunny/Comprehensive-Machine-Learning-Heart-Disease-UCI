@@ -1,5 +1,8 @@
 \# Heart Disease Prediction Project 
 
+\#\# Description
+This project analyzes and visualizes heart disease risk using ML. It includes preprocessing, feature selection, PCA, model training, evaluation, and deployment. Models used: Logistic Regression, Decision Trees, Random Forest, SVM, plus K-Means and Hierarchical Clustering.
+
 \#\# 📌 Overview  
 This project builds a \*\*complete machine learning pipeline\*\* to analyze and predict the risk of heart disease using the \*\*UCI Heart Disease dataset\*\*.    
 The workflow includes:  
